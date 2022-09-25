@@ -1,4 +1,4 @@
-package com.divyanshu.groceryapp
+package com.sohailamer.groceryapp
 
 import androidx.lifecycle.ViewModel
 import kotlinx.coroutines.GlobalScope
